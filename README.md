@@ -17,11 +17,10 @@ This repository showcases the implementation of two advanced cloud-computing pro
 
    ![AI-Powered Automation](path/to/ai-automation-diagram.png)
 
-## Technologies Used
-- **Cloud Providers:** AWS (EKS, EC2, Lambda, DynamoDB, ECR), Google Cloud (BigQuery), Azure AI
-- **CI/CD & DevOps:** Terraform, AWS CodePipeline, CodeBuild, Docker, Kubernetes
-- **AI & Automation:** Amazon Bedrock, OpenAI GPT-4o, Azure AI, Claude 3 Sonnet
-- **Infrastructure & Scripting:** Linux, Terraform
+## 🛑 Disclaimer
+🚨 **Real deployments have been removed from this repository** to avoid ongoing infrastructure costs, as maintaining Kubernetes services incurs expenses. However, the implementation details, configurations, and setup steps remain available for reference.
+### 📸 **Screenshots & Documentation**
+To see step-by-step execution and results, refer to the provided **screenshots** and **detailed Medium articles**:
 
 ## Project Implementation
 To understand the step-by-step implementation of these projects, refer to the detailed Medium articles:
@@ -30,5 +29,13 @@ To understand the step-by-step implementation of these projects, refer to the de
 - [CI/CD in Action: Automating Docker & Kubernetes Deployments](https://medium.com/@rokesh2897/ci-cd-in-action-automating-docker-kubernetes-deployments-with-aws-multi-cloud-devops-ai-c40a2f36a432)
 - [How I Containerized an E-Commerce App with Docker & Kubernetes ](https://medium.com/@rokesh2897/how-i-containerized-an-e-commerce-app-with-docker-kubernetes-multi-cloud-devops-ai-challenge-328c8e229487)
 - [GenAI in Action: AI-Powered Cloud Automation](https://medium.com/@rokesh2897/genai-in-action-49ea4a2a1ea2)
+
+
+## Technologies Used
+- **Cloud Providers:** AWS (EKS, EC2, Lambda, DynamoDB, ECR), Google Cloud (BigQuery), Azure AI
+- **CI/CD & DevOps:** Terraform, AWS CodePipeline, CodeBuild, Docker, Kubernetes
+- **AI & Automation:** Amazon Bedrock, OpenAI GPT-4o, Azure AI, Claude 3 Sonnet
+- **Infrastructure & Scripting:** Linux, Terraform
+
 
 ## Repository Structure
