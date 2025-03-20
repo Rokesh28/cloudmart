@@ -1,7 +1,7 @@
 # Multi-Cloud Migration & AI-Powered Cloud Automation
 
 ## Overview
-This repository showcases the implementation of two advanced cloud computing projects:
+This repository showcases the implementation of two advanced cloud-computing projects:
 
 1. **Multi-Cloud Migration & CI/CD**
    - Migrating an on-premises eCommerce app to **AWS, Google Cloud, and Azure** for improved scalability and reliability.
@@ -13,7 +13,7 @@ This repository showcases the implementation of two advanced cloud computing pro
 2. **AI-Powered Cloud Automation**
    - Enhancing product recommendations by **40%** using **Claude 3 Sonnet (Amazon Bedrock) and Generative AI**.
    - Automating **80% of customer interactions** (order cancellations, inquiries) with **OpenAI GPT-4o**.
-   - Using **Azure AI Text Analytics** to analyze 10K+ reviews for sentiment insights and decision-making.
+   - Using **Azure AI Text Analytics** to analyze customer reviews for sentiment insights and decision-making.
 
    ![AI-Powered Automation](path/to/ai-automation-diagram.png)
 
@@ -21,7 +21,7 @@ This repository showcases the implementation of two advanced cloud computing pro
 - **Cloud Providers:** AWS (EKS, EC2, Lambda, DynamoDB, ECR), Google Cloud (BigQuery), Azure AI
 - **CI/CD & DevOps:** Terraform, AWS CodePipeline, CodeBuild, Docker, Kubernetes
 - **AI & Automation:** Amazon Bedrock, OpenAI GPT-4o, Azure AI, Claude 3 Sonnet
-- **Infrastructure & Scripting:** Linux, Python, Bash
+- **Infrastructure & Scripting:** Linux, Terraform
 
 ## Project Implementation
 To understand the step-by-step implementation of these projects, refer to the detailed Medium articles:
