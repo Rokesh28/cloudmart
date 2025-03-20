@@ -25,7 +25,8 @@ To see step-by-step execution and results, refer to the provided **screenshots**
 
 ## Project Implementation
 To understand the step-by-step implementation of these projects, refer to the detailed Medium articles:
-![CloudMart](Cloumart_Implementation_ScreenShots/Screenshot 2025-03-07 at 5.49.59 PM.png)
+![CloudMart](Cloumart_Implementation_ScreenShots/Screenshot%202025-03-07%20at%205.49.59%20PM.png)
+
 
 - [Multi-Cloud DevOps AI Challenge - Day 1](https://medium.com/@rokesh2897/multi-cloud-devops-ai-challenge-day-1-d6e62c0b5a19)
 - [CI/CD in Action: Automating Docker & Kubernetes Deployments](https://medium.com/@rokesh2897/ci-cd-in-action-automating-docker-kubernetes-deployments-with-aws-multi-cloud-devops-ai-c40a2f36a432)
