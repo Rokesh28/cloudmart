@@ -38,4 +38,3 @@ To understand the step-by-step implementation of these projects, refer to the de
 - **Infrastructure & Scripting:** Linux, Terraform
 
 
-## Repository Structure
