@@ -28,6 +28,7 @@ To understand the step-by-step implementation of these projects, refer to the de
 
 - [Multi-Cloud DevOps AI Challenge - Day 1](https://medium.com/@rokesh2897/multi-cloud-devops-ai-challenge-day-1-d6e62c0b5a19)
 - [CI/CD in Action: Automating Docker & Kubernetes Deployments](https://medium.com/@rokesh2897/ci-cd-in-action-automating-docker-kubernetes-deployments-with-aws-multi-cloud-devops-ai-c40a2f36a432)
+- [How I Containerized an E-Commerce App with Docker & Kubernetes ](https://medium.com/@rokesh2897/how-i-containerized-an-e-commerce-app-with-docker-kubernetes-multi-cloud-devops-ai-challenge-328c8e229487)
 - [GenAI in Action: AI-Powered Cloud Automation](https://medium.com/@rokesh2897/genai-in-action-49ea4a2a1ea2)
 
 ## Repository Structure
